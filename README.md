@@ -1,16 +1,34 @@
-## Hi there 👋
+Michael Crossley
+Aspiring Data Analyst with a background in Software Quality Assurance and 11 years of Royal Navy HR experience.
 
-<!--
-**mcrossley-analytics/mcrossley-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am transitioning into Data Analytics after nearly 6 years in Software Quality Assurance, where I developed strong skills in data validation, problem-solving, reporting, SQL, and stakeholder communication.
 
-Here are some ideas to get you started:
+My current focus areas include:
+- SQL
+- Microsoft Excel
+- Power BI
+- Statistical Analysis
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Portfolio Projects: Retail Sales Analytics Excel Dashboard - Analyzed 50,000+ retail transactions and developed an interactive dashboard featuring:
+- KPI Reporting
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- Customer Analysis
+- Product Analysis
+- Regional Analysis
+- Statistical Analysis
+- Repository coming soon.
+
+Technical Skills
+Data Analysis:
+- SQL
+- PostgreSQL
+- Microsoft Excel
+- Power BI
+
+LinkedIn: www.linkedin.com/in/michael-crossley
